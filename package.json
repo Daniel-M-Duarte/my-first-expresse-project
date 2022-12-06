@@ -1,0 +1,17 @@
+{
+  "name": "desespero",
+  "version": "1.0.0",
+  "description": "Curso de Node e Express com MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Daniel Duarte",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20"
+  }
+}
